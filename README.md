@@ -12,9 +12,7 @@ A full-stack e-commerce web application built using the MERN stack (MongoDB, Exp
 - 🛠️ Admin Dashboard (Product/Order/User Management)
 - 🌐 Responsive UI using React and Tailwind CSS or Bootstrap
 
-## 🖼️ Screenshots
 
-> Add screenshots or a demo video link here
 
 ## 🛠️ Tech Stack
 
@@ -29,7 +27,7 @@ A full-stack e-commerce web application built using the MERN stack (MongoDB, Exp
 - Express.js
 - MongoDB (Mongoose)
 - JSON Web Token (JWT)
-- Bcrypt for password hashing
 
-## 📂 Project Structure
+
+
 
